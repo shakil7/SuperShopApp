@@ -1,0 +1,9 @@
+C:\Users\PC21\Desktop\Exam\SuperShopApp\SuperShopApp\bin\Debug\SuperShopApp.exe.config
+C:\Users\PC21\Desktop\Exam\SuperShopApp\SuperShopApp\bin\Debug\SuperShopApp.exe
+C:\Users\PC21\Desktop\Exam\SuperShopApp\SuperShopApp\bin\Debug\SuperShopApp.pdb
+C:\Users\PC21\Desktop\Exam\SuperShopApp\SuperShopApp\obj\Debug\SuperShopApp.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\Exam\SuperShopApp\SuperShopApp\obj\Debug\SuperShopApp.ShopAppUI.resources
+C:\Users\PC21\Desktop\Exam\SuperShopApp\SuperShopApp\obj\Debug\SuperShopApp.Properties.Resources.resources
+C:\Users\PC21\Desktop\Exam\SuperShopApp\SuperShopApp\obj\Debug\SuperShopApp.csproj.GenerateResource.Cache
+C:\Users\PC21\Desktop\Exam\SuperShopApp\SuperShopApp\obj\Debug\SuperShopApp.exe
+C:\Users\PC21\Desktop\Exam\SuperShopApp\SuperShopApp\obj\Debug\SuperShopApp.pdb
